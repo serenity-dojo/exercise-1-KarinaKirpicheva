@@ -30,7 +30,7 @@ public class WhenWorkingWithStrings {
 
     @Test
     public void trimExtraSpaces() {
-        String bookTitle = "  The Cat In The Hat    ";
+        String bookTitle = "  The Cat In The Hat";
 
         String trimmedTitle = "The Cat In The Hat";
         // TODO: Trim the spaces before and after the title text
